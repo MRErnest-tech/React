@@ -1,0 +1,14 @@
+*{
+  background-color: ghostwhite;
+}
+
+.App {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+
+  text-align: center;
+}
+
+.color-white{
+  background-color: white;
+}
